@@ -4,7 +4,7 @@
 
 **I'm a Product designer on the streets, developer in the sheets.**
 
-I'm into Python, PHP, Tailwind, Vue and of course, a little JS. I also maintain a few extensions for the Panic Nova editor.
+I'm into Python, PHP, Tailwind, Vue and of course, a little JS. I also maintain a few extensions for the <a href ="https://nova.app/">Panic Nova editor.</a>
 
 🌱 I’m currently learning Elixir and Phoenix
 
